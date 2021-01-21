@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "root",
+	"password": "Luca99",
+	"port": 3306,
+	"database": "Farmacia_versione1"
+}
+
